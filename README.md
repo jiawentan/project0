@@ -1,2 +1,3 @@
-# project0
-Personal Resume Webpage
+# Project 0
+
+Web Programming with Python and JavaScript
